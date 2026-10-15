@@ -1,0 +1,9 @@
+AUTOCALL INDICATIVE TERM SHEET
+
+Reference Price : {{Reference Price}}
+Nominal : {{Nominal}}
+Coupon : {{Coupon}}
+Barrière d'autocall : {{Barrière d'autocall}}
+Barrière de protection : {{Barrière de protection}}
+Maturité : {{Maturité}}
+Prix : {{Prix}}
